@@ -22,7 +22,7 @@ const CheckoutTemplate = () => {
               </a>
             </Link>
             <Link href="/">
-              <a className="text-xl-semi">ACME</a>
+            <img style={{width: "100px"}} src="https://user-images.githubusercontent.com/72182438/195162974-8754fb00-d39d-4bf6-b850-19eeda2145f1.svg" alt="PopKart" />
             </Link>
             <div className="flex-1 basis-0" />
           </nav>
