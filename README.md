@@ -13,7 +13,7 @@ This is an e-commerce website for over-sized t-shirts powered by using NextJs co
 
 ### Preview
 
-![Demo](https://user-images.githubusercontent.com/63467479/195644407-ecdd9da3-9fca-468f-b4b3-cb52022ac82b.gif)
+<img src="https://user-images.githubusercontent.com/63467479/195644407-ecdd9da3-9fca-468f-b4b3-cb52022ac82b.gif" width="100%"/>
 
 ![screencapture-localhost-8000-2022-10-13-20_46_51](https://user-images.githubusercontent.com/72182438/195637906-2a320293-a6fb-4ff5-80a5-28823134cd7d.png)
 
